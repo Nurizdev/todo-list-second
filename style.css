@@ -1,0 +1,19 @@
+.block{
+    margin-top: 50px;
+
+}
+.input{
+    padding: 8px 25px;
+    border-radius: 10px;
+    border: 2px solid gray;
+}
+.addBtn{
+    padding: 9px 15px;
+    border: none;
+    background: rgb(55, 101, 238);
+    border-radius: 10px;
+    color: white;
+}
+li{
+    list-style: none;
+}
